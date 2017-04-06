@@ -1,6 +1,6 @@
 # Silence
 
-C functions to toggle echo in the terminal on and off
+Header only C wrapper functions to toggle echo in the terminal on and off
 
 
 ## Main idea
