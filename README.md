@@ -39,8 +39,3 @@ silence::toggle_off()
 
 toggle_off takes no parameters and will turn on the echo.
 
-
-## silenece_test.cpp
-Inluced in the repo is silence_test.cpp (not an automated test) which, along
-with testing the functionality, gives a demonstration of all the functions
-included in silence.

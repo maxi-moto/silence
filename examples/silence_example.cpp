@@ -3,7 +3,7 @@
 
 using namespace::std;
 
-#include "silence.h"
+#include "../silence.h"
 
 void do_test();
 
